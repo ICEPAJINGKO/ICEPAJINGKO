@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I am currently a Junior Backend Developer and I am looking to develop myself into a Fullstack Developer in the near future. I'm interested in React and Angular now. Please support me. Thank you.
+I am currently a Backend Developer and I am looking to develop myself into a Fullstack Developer in the near future. I'm interested in React and Angular now. Please support me. Thank you.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [HERE](http://github.com/icepajingko)
